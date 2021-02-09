@@ -1,16 +1,19 @@
-all: index.html index.pdf index.docx index.txt
 
-index.html: index.md style.css
-	pandoc --standalone -c style.css --from markdown --to html -o index.html index.md
+file = cv_thibaut_madelaine
 
-index.pdf: index.html
-	wkhtmltopdf index.html index.pdf
+all: cv.html cv.pdf cv.docx cv.txt
 
-index.docx: index.md
-	pandoc --from markdown --to docx -o index.docx index.md
+cv.html: cv.md style.css
+	pandoc --metadata pagetitle="CV de Thibaut MADELAINE" --standalone -c style.css --from markdown --to html -o $(file).html cv.md
 
-index.txt: index.md
-	pandoc --standalone --smart --from markdown --to plain -o index.txt index.md
+cv.pdf: cv.html
+	wkhtmltopdf --enable-local-file-access $(file).html $(file).pdf
+
+cv.docx: cv.md
+	pandoc --from markdown --to docx -o $(file).docx cv.md
+
+cv.txt: cv.md
+	pandoc --standalone --from markdown --to plain -o $(file).txt cv.md
 
 clean:
 	rm -f *.html *.pdf *.docx *.txt
