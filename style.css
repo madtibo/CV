@@ -9,7 +9,7 @@
 
 /* Whole document */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Liberation Sans", Liberation, Arial, sans-serif;
     width: 800px;
     margin: auto;
     background: #FFFFFF;
@@ -53,14 +53,14 @@ dt {
     float: left;
     clear: left;
     width: 17%;
-    /*font-weight: bold;*/
+    font-weight: bold;
 }
 dd {
     margin-left: 17%;
 }
 p {
     margin-top:0;
-    margin-bottom:7px;
+    margin-bottom:10px;
 }
 
 /* Blockquotes */
