@@ -160,5 +160,5 @@ Autres
 
 ----
 
-> <thibaut_job@tribu-ml.fr> • 06 63 78 49 50 • 44g ans\
+> <thibaut_job@tribu-ml.fr> • 06 63 78 49 50 • 44 ans\
 >  10 rue des marronniers - 14610 Épron, Normandie
