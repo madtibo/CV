@@ -2,13 +2,33 @@
 
 ----
 
->  Spécialités : PostgreSQL, C++, Python, Bash, Emacs, Debian, Linux
+>  Spécialités : PostgreSQL, Python, Bash, Javascript, Emacs, Debian, Linux
 
 ----
 
 ## Expérience professionnelle
 
-Depuis 2016
+Depuis 2021
+:   *Ingénieur FullStack à [SpaceFill](https://spacefill.fr/)* (télétravail
+    pur à Épron, Normandie).
+
+    Backend en **PostgreSQL**, API en **Python**, frontend en **ReactJS**,
+    requêtes en **GraphQL**.  
+	Déploiement avec **Docker**, **Ansible** et **Terraform**.  
+	Développement Agile avec **Gitlab**.  
+	Organisation en squad de 1 responsable produit et 2 à 5 développeurs.  
+	Écriture des spécifications, développement des issues, revue de code,
+    accueil des nouveaux développeurs, support client.
+
+Depuis 2017
+:   *Enseignant vacataire à l'[Université de
+    Caen](http://ufrdessciences.unicaen.fr/)* (Caen, Normandie).
+
+    Cours d'administation PostgreSQL en Licence 3 Informatique.  
+	Dispense de 5 semaines par an : Cours Magistraux, Travaux Dirigés et
+    Travaux pratiques. Écriture et correction des examens.
+
+2016-2021
 :   *DBA Senior PostgreSQL à [dalibo](https://www.dalibo.com/)* (télétravail
     pur à Épron, Normandie).
 
@@ -18,14 +38,6 @@ Depuis 2016
 	Mainteneur du module interne des clients support en PHP pour
     [dolibarr](https://www.dolibarr.org/).
 
-Depuis 2017
-:   *Enseignant vacataire à l'[Université de
-    Caen](http://ufrdessciences.unicaen.fr/)* (Caen, Normandie).
-
-    Cours d'administation PostgreSQL en Licence 3 Informatique.  
-	Dispense des Cours Magistraux, Travaux Dirigés et Travaux
-    pratiques. Écriture et correction des examens.
-
 2011-2016
 :   *Chef de projet et _lead-developer_ à [Zodiac Data
     Systems](https://www.safran-aerosystems.com/media/new-site-zodiac-data-systems-20161109)*
@@ -34,12 +46,10 @@ Depuis 2017
     Conception d'un logiciel de surveillance automatique de signaux
     satellites :  
     - analyse des demandes clients et réponse aux appels d'offres,  
-    - spécifications,  
-	- gestion des plannings  
-    - suivi des développements et de la validation,  
+    - spécifications, suivi des développements et de la validation,  
     - installation site et formation,  
-    - support client.  
-    Application codée en **C++** et **Python** : base de données
+	- gestion des plannings et support client.  
+    Application codée en **C++** et **Python** , base de données :
     **PostgreSQL**, packaging des logiciels pour **Debian**, **Icinga** pour la
     supervision du système.
 
@@ -66,38 +76,40 @@ Depuis 2017
 ## Contributions Open-Source
 
 PostgreSQL
-:   *[Cours DBA
-    PostgreSQL](https://gitlab.com/madtibo/cours_dba_pg_universite)*
+:   Mise à disposition de *[cours d'administration de
+    PostgreSQL](https://gitlab.com/madtibo/cours_dba_pg_universite)* à
+    destination d'étudiants en Informatique. Les cours sont séparés en modules
+    contenant les CM / TD / TP et les corrigés.
 
-    Mise à disposition de cours d'administation de PostgreSQL à destination
-    d'étudiants en Informatique. Les cours sont séparés en modules contenant
-    les CM / TD / TP et les corrigés.
+    Refactoring de la librairie de calcul de jours fériés
+    [pgsql_holidays](https://github.com/spacefill/pgsql_holidays) en une
+    extension PostgreSQL. Ajout de tests automatisés.
 
-Bash
-:   *Mainteneur de* **[pitrery](https://github.com/dalibo/pitrery)** - outil
-    PostgreSQL facilitant les sauvegarde _PITR_.
-    
-	Développement de la mise en [compatibilité avec
-    PostgreSQL 12](https://github.com/dalibo/pitrery/pull/55).  
-	Mise en place de tests automatiques avec CircleCi et docker.
+    Création d'un [plugin de recherche non accentué](https://github.com/spacefill/postgraphile-plugin-unaccented-text-search-filter) pour [PostGraphile](https://www.graphile.org/postgraphile/).
 
-Perl
-:   *Mainteneur de*
-    **[sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql/)** - outil
-    de migration de SQL Server vers PostgreSQL.
-
-	Mise en place de tests automatiques avec CircleCi et docker.  
-	Travail en cours sur la migration des vues.
-    
 Python
-:   Contributions sur l'outil d'administration PostgreSQL
+:   Assistance dans le projet **[Yunohost](https://yunohost.org/)** sur des
+    problématiques d'administration système ou liées à PostgreSQL.
+g
+    Contributions sur l'outil d'administration PostgreSQL
     **[temBoard](https://github.com/dalibo/temboard)**. [Pull
     request](https://github.com/madtibo/temboard/tree/partition_history_tables)
     sur l'utilisation de tables partitionnées pour le stockage des données de
-    supervision
+    supervision.
 
-    Assistance dans le projet **[Yunohost](https://yunohost.org/)** sur des
-    problématiques d'administration système ou liées à PostgreSQL.
+Perl
+:   Ancien *mainteneur de*
+    **[sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql/)** - outil
+    de migration de SQL Server vers PostgreSQL.  
+	- Mise en place de tests automatiques avec CircleCi et docker.  
+	- Ajout de la migration des vues.
+
+Bash
+:   Ancien *mainteneur de* **[pitrery](https://github.com/dalibo/pitrery)** -
+    outil PostgreSQL facilitant les sauvegarde _PITR_.  
+	- Développement de la mise en [compatibilité avec
+    PostgreSQL 12](https://github.com/dalibo/pitrery/pull/55).  
+	- Mise en place de tests automatiques avec CircleCi et docker.
 
 ## Formations
 
@@ -128,7 +140,7 @@ Activités et Loisirs
 
 Badminton
 :   Pratique compétitive en [club](asebadminton.e-monsite.com/). Président de
-    l'association depuis 2018.
+    l'association de 2018 à 2022.
 
 Debian
 :   Le système d'exploitation de la tribu. Administrateur système du parc
@@ -144,9 +156,9 @@ Jeu de plateau
     Legacy](https://www.trictrac.net/jeu-de-societe/pandemic-legacy-saison-0).
 
 Autres
-:   Fan de science-fiction, utilisateur de Firefox OS.
+:   Fan de science-fiction, utilisateur de [CalyxOS](https://calyxos.org/).
 
 ----
 
-> <thibaut@tribu-ml.fr> • 06 63 78 49 50 • 42 ans\
+> <thibaut_job@tribu-ml.fr> • 06 63 78 49 50 • 44g ans\
 >  10 rue des marronniers - 14610 Épron, Normandie
