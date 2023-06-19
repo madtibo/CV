@@ -139,7 +139,7 @@ Activités et Loisirs
 --------------------
 
 Badminton
-:   Pratique compétitive en [club](asebadminton.e-monsite.com/). Président de
+:   Pratique compétitive en [club](http://asebadminton.e-monsite.com/). Président de
     l'association de 2018 à 2022.
 
 Debian
