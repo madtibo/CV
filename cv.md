@@ -8,7 +8,23 @@
 
 ## Expérience professionnelle
 
-Depuis 2021
+Depuis 2023
+:   *DBA Dev PostgreSQL à [GitGuardian](https://www.gitguardian.com/)*
+    (télétravail pur à Épron, Normandie).
+
+    Données sur **PostgreSQL** et **Redis**, backend en **Python**, frontend en
+    **ReactJS**, requêtes avec **Django**.  
+	Responsable de la performance de la base de données PostgreSQL.
+
+Depuis 2017
+:   *Enseignant vacataire à l'[Université de
+    Caen](http://ufrdessciences.unicaen.fr/)* (Caen, Normandie).
+
+    Cours d'administation **PostgreSQL** en Licence 3 Informatique.  
+	Dispense de 5 semaines par an : Cours Magistraux, Travaux Dirigés et
+    Travaux pratiques. Écriture et correction des examens.
+
+2021-2023
 :   *Ingénieur FullStack à [SpaceFill](https://spacefill.fr/)* (télétravail
     pur à Épron, Normandie).
 
@@ -19,14 +35,6 @@ Depuis 2021
 	Organisation en squad de 1 responsable produit et 2 à 5 développeurs.  
 	Écriture des spécifications, développement des issues, revue de code,
     accueil des nouveaux développeurs, support client.
-
-Depuis 2017
-:   *Enseignant vacataire à l'[Université de
-    Caen](http://ufrdessciences.unicaen.fr/)* (Caen, Normandie).
-
-    Cours d'administation PostgreSQL en Licence 3 Informatique.  
-	Dispense de 5 semaines par an : Cours Magistraux, Travaux Dirigés et
-    Travaux pratiques. Écriture et correction des examens.
 
 2016-2021
 :   *DBA Senior PostgreSQL à [dalibo](https://www.dalibo.com/)* (télétravail
