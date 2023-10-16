@@ -98,7 +98,7 @@ PostgreSQL
 Python
 :   Assistance dans le projet **[Yunohost](https://yunohost.org/)** sur des
     problématiques d'administration système ou liées à PostgreSQL.
-g
+
     Contributions sur l'outil d'administration PostgreSQL
     **[temBoard](https://github.com/dalibo/temboard)**. [Pull
     request](https://github.com/madtibo/temboard/tree/partition_history_tables)
