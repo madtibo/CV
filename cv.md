@@ -164,7 +164,8 @@ Jeu de plateau
     Legacy](https://www.trictrac.net/jeu-de-societe/pandemic-legacy-saison-0).
 
 Autres
-:   Fan de science-fiction, utilisateur de [CalyxOS](https://calyxos.org/).
+:   Fan de science-fiction, utilisateur de [CalyxOS](https://calyxos.org/),
+    animateur de la [Fresque du Climat](https://fresqueduclimat.org/).
 
 ----
 
