@@ -8,6 +8,14 @@
 
 ## Expérience professionnelle
 
+Depuis 2025
+:   *Expertise PostgreSQL en freelance à 5432*.
+
+    Optimisation des performances des instances PostgreSQL.  
+    Migration vers PostgreSQL.  
+    Anonymisation et mise en conformité RGPD.  
+    Assistance sur tout projet autour de PostgreSQL.
+
 Depuis 2023
 :   *DBA Dev PostgreSQL à [GitGuardian](https://www.gitguardian.com/)*
     (télétravail pur à Épron, Normandie).
@@ -169,5 +177,5 @@ Autres
 
 ----
 
-> <thibaut_job@tribu-ml.fr> • 06 63 78 49 50 • 44 ans\
+> <thibaut_job@tribu-ml.fr> • 06 63 78 49 50 • 46 ans\
 >  10 rue des marronniers - 14610 Épron, Normandie
