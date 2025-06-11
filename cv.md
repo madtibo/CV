@@ -8,21 +8,30 @@
 
 ## Expérience professionnelle
 
-Depuis 2023
-:   *DBA Dev PostgreSQL à [GitGuardian](https://www.gitguardian.com/)*
-    (télétravail pur à Épron, Normandie).
+Depuis 2025
+:   *Expertise PostgreSQL en freelance à [5432](https://5432.tech)*.
 
-    Données sur **PostgreSQL** et **Redis**, backend en **Python**, frontend en
-    **ReactJS**, requêtes avec **Django**.  
-	Responsable de la performance de la base de données PostgreSQL.
+    Optimisation des performances des instances PostgreSQL.  
+    Migration vers PostgreSQL.  
+    Anonymisation et mise en conformité RGPD.  
+    Assistance sur tout projet autour de PostgreSQL.
 
 Depuis 2017
 :   *Enseignant vacataire à l'[Université de
     Caen](http://ufrdessciences.unicaen.fr/)* (Caen, Normandie).
 
     Cours d'administation **PostgreSQL** en Licence 3 Informatique.  
-	Dispense de 5 semaines par an : Cours Magistraux, Travaux Dirigés et
+    Dispense de 5 semaines par an : Cours Magistraux, Travaux Dirigés et
     Travaux pratiques. Écriture et correction des examens.
+
+2023-2025
+:   *DBA Dev PostgreSQL à [GitGuardian](https://www.gitguardian.com/)*
+    (télétravail pur à Épron, Normandie).
+
+    Données sur **PostgreSQL** et **Redis**, backend en **Python**, frontend en
+    **ReactJS**, requêtes avec **Django**.  
+    Responsable de la performance de la base de données PostgreSQL hébergée sur
+    AWS RDS.
 
 2021-2023
 :   *Ingénieur FullStack à [SpaceFill](https://spacefill.fr/)* (télétravail
@@ -30,10 +39,10 @@ Depuis 2017
 
     Backend en **PostgreSQL**, API en **Python**, frontend en **ReactJS**,
     requêtes en **GraphQL**.  
-	Déploiement avec **Docker**, **Ansible** et **Terraform**.  
-	Développement Agile avec **Gitlab**.  
-	Organisation en squad de 1 responsable produit et 2 à 5 développeurs.  
-	Écriture des spécifications, développement des issues, revue de code,
+    Déploiement avec **Docker**, **Ansible** et **Terraform**.  
+    Développement Agile avec **Gitlab**.  
+    Organisation en squad de 1 responsable produit et 2 à 5 développeurs.  
+    Écriture des spécifications, développement des issues, revue de code,
     accueil des nouveaux développeurs, support client.
 
 2016-2021
@@ -41,9 +50,9 @@ Depuis 2017
     pur à Épron, Normandie).
 
     Expertise, support et formation sur **PostgreSQL**.  
-	Migration de SQLServer et Oracle vers PostgreSQL.  
-	Mainteneur des projets commautaires **pitrery** et **sqlserver2pgsql**.  
-	Mainteneur du module interne des clients support en PHP pour
+    Migration de SQLServer et Oracle vers PostgreSQL.  
+    Mainteneur des projets commautaires **pitrery** et **sqlserver2pgsql**.  
+    Mainteneur du module interne des clients support en PHP pour
     [dolibarr](https://www.dolibarr.org/).
 
 2011-2016
@@ -56,8 +65,8 @@ Depuis 2017
     - analyse des demandes clients et réponse aux appels d'offres,  
     - spécifications, suivi des développements et de la validation,  
     - installation site et formation,  
-	- gestion des plannings et support client.  
-    Application codée en **C++** et **Python** , base de données :
+    - gestion des plannings et support client.  
+    Application codée en **C++** et **Python**, base de données :
     **PostgreSQL**, packaging des logiciels pour **Debian**, **Icinga** pour la
     supervision du système.
 
@@ -75,7 +84,7 @@ Depuis 2017
 :   *Ingénieur de développement à SmardTech* (Voisins-le-Bretonneux, Yvelines).
 
     Développement d’un démonstrateur de cartes à puce sans contact grâce à une
-	application de carte de fidélité en Visual C++.  
+    application de carte de fidélité en Visual C++.  
     Création d'une librairie cryptographique orientée objet afin de sécuriser
     des échanges sur un site de payement basé sur
     [libgcrypt](https://gnupg.org/software/libgcrypt/).
@@ -109,15 +118,15 @@ Perl
 :   Ancien *mainteneur de*
     **[sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql/)** - outil
     de migration de SQL Server vers PostgreSQL.  
-	- Mise en place de tests automatiques avec CircleCi et docker.  
-	- Ajout de la migration des vues.
+    - Mise en place de tests automatiques avec CircleCi et docker.  
+    - Ajout de la migration des vues.
 
 Bash
 :   Ancien *mainteneur de* **[pitrery](https://github.com/dalibo/pitrery)** -
     outil PostgreSQL facilitant les sauvegarde _PITR_.  
-	- Développement de la mise en [compatibilité avec
+    - Développement de la mise en [compatibilité avec
     PostgreSQL 12](https://github.com/dalibo/pitrery/pull/55).  
-	- Mise en place de tests automatiques avec CircleCi et docker.
+    - Mise en place de tests automatiques avec CircleCi et docker.
 
 ## Formations
 
@@ -157,11 +166,11 @@ Debian
     parental](https://gitlab.com/marsat/CTparental/).
 
 Jeu de plateau
-:   amateur de jeux tels
-    [Agricola](https://www.trictrac.net/jeu-de-societe/agricola), [La Guerre de
+:   amateur de jeux tels [Ark
+    Nova](https://trictrac.net/jeu-de-societe/ark-nova), [La Guerre de
     l'Anneau](https://www.trictrac.net/jeu-de-societe/la-guerre-de-l-anneau),
-    [Splendor](https://www.trictrac.net/jeu-de-societe/splendor) ou [Pandemic
-    Legacy](https://www.trictrac.net/jeu-de-societe/pandemic-legacy-saison-0).
+    [Splendor](https://www.trictrac.net/jeu-de-societe/splendor) ou [Sleeping
+    gods](https://trictrac.net/jeu-de-societe/sleeping-gods-1).
 
 Autres
 :   Fan de science-fiction, utilisateur de [CalyxOS](https://calyxos.org/),
@@ -169,5 +178,5 @@ Autres
 
 ----
 
-> <thibaut_job@tribu-ml.fr> • 06 63 78 49 50 • 44 ans\
+> <thibaut+cv@5432.tech> • 06 63 78 49 50 • 46 ans\
 >  10 rue des marronniers - 14610 Épron, Normandie
